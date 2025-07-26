@@ -74,3 +74,4 @@ try:
             time.sleep(delay)
 except KeyboardInterrupt:
     print("\n\033[1;32m✅ Selesai.\033[0m")
+    sys.exit(0)
