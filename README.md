@@ -1,4 +1,6 @@
 # aurafarming
-agar kode jalan install dulu yang ada di requirements.txt dengan pip install -r requirements.txt
-dan jangan lupa untuk video nya harus satu folder dengan kode python nya
- 
+To run the code, first install the dependencies listed in requirements.txt using:
+```
+pip install -r requirements.txt
+```
+Also, make sure the video file is in the same folder as the Python
